@@ -2,8 +2,7 @@
 Repositório para o trabalho final da disciplina de Técnicas de Construção de Programas(TCP) UFRGS 2022/02
 
 <h2>Requisitos</h2>
-<hr>
-* Ter uma interface que permita ao usuario entrar um texto
+<p>* Ter uma interface que permita ao usuario entrar um texto</p>
 * Permitir ao usuario definir um arquivo como entrada de texto alternativa
 * Tocar sons de acordo com a entrada do usuario
 * Permitir ao usuario fazer o download da musica criada pelo software
