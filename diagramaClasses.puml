@@ -1,0 +1,5 @@
+@startuml classes
+    class FirstClass{
+        
+    }
+@enduml
